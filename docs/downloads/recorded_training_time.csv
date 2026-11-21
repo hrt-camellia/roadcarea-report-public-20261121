@@ -1,0 +1,3 @@
+﻿method,epochs,selected_epoch,elapsed_seconds,elapsed_minutes,scope
+camera_finetune,19,11,828.7837064000778,13.81306177333463,Training loop including validation and checkpoint writes; excludes initial data/model loading
+roi_boundary_refine,19,11,810.4133719000965,13.506889531668275,Training loop including validation and checkpoint writes; excludes initial data/model loading

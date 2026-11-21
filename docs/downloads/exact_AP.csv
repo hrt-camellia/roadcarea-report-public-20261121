@@ -1,0 +1,4 @@
+﻿method,exact_AP,positive_pixels,negative_pixels,ties,no_threshold_selection
+frozen_source,0.8742166060974796,6035608,8495708,equal float32 probabilities grouped at last rank; standard noninterpolated AP,True
+camera_finetune,0.9460093112640392,6035608,8495708,equal float32 probabilities grouped at last rank; standard noninterpolated AP,True
+roi_boundary_refine,0.9454669906460369,6035608,8495708,equal float32 probabilities grouped at last rank; standard noninterpolated AP,True

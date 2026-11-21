@@ -1,0 +1,17 @@
+﻿method,estimand,metric,paired_cameras,difference,ci95_low,ci95_high,ci975_low,ci975_high,bootstrap_valid_replicates,replicates,seed
+camera_finetune,pooled_pixel_metric_camera_resampling,precision,30,0.04776716269458536,0.012396592897175545,0.09296678387372041,,,2000,2000,20261121
+camera_finetune,pooled_pixel_metric_camera_resampling,recall,30,0.235835064172491,0.1295321633876388,0.33505742735596566,,,2000,2000,20261121
+camera_finetune,pooled_pixel_metric_camera_resampling,f1,30,0.158805519205642,0.08946973578439457,0.24218708730216895,,,2000,2000,20261121
+camera_finetune,pooled_pixel_metric_camera_resampling,iou,30,0.22544959185244018,0.13512158572432578,0.3162771742446747,,,2000,2000,20261121
+roi_boundary_refine,pooled_pixel_metric_camera_resampling,precision,30,0.048653148000400104,0.01304535353336326,0.09561073546529868,,,2000,2000,20261121
+roi_boundary_refine,pooled_pixel_metric_camera_resampling,recall,30,0.23376567861928743,0.1271118161890035,0.3341744042206053,,,2000,2000,20261121
+roi_boundary_refine,pooled_pixel_metric_camera_resampling,f1,30,0.15814359419146584,0.08787941115879484,0.24176244696163113,,,2000,2000,20261121
+roi_boundary_refine,pooled_pixel_metric_camera_resampling,iou,30,0.22437610354157467,0.1340802904427284,0.3154954813912718,,,2000,2000,20261121
+source_validation_calibrated,pooled_pixel_metric_camera_resampling,precision,30,-0.06949595550306187,-0.11981396599782243,-0.030814121864509315,,,2000,2000,20261121
+source_validation_calibrated,pooled_pixel_metric_camera_resampling,recall,30,0.11567119667148695,0.0711510059491748,0.1670465412280089,,,2000,2000,20261121
+source_validation_calibrated,pooled_pixel_metric_camera_resampling,f1,30,0.039941665879628996,-0.0026597856926682925,0.0802050955917037,,,2000,2000,20261121
+source_validation_calibrated,pooled_pixel_metric_camera_resampling,iou,30,0.05121956114007786,-0.0035781911803670625,0.10062662699846381,,,2000,2000,20261121
+target_validation_calibrated,pooled_pixel_metric_camera_resampling,precision,30,0.06182844882066052,0.0215009211685289,0.11507103853839044,,,2000,2000,20261121
+target_validation_calibrated,pooled_pixel_metric_camera_resampling,recall,30,0.19914447724239215,0.08533614588985698,0.30394643673007593,,,2000,2000,20261121
+target_validation_calibrated,pooled_pixel_metric_camera_resampling,f1,30,0.14557965237824788,0.07572284437508911,0.2298587260463653,,,2000,2000,20261121
+target_validation_calibrated,pooled_pixel_metric_camera_resampling,iou,30,0.20424019964681328,0.11279799848901154,0.29765654435761607,,,2000,2000,20261121
